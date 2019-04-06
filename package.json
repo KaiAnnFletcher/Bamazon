@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon assignment",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaiAnnFletcher/Bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Kai-Ann Fletcher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KaiAnnFletcher/Bamazon/issues"
+  },
+  "homepage": "https://github.com/KaiAnnFletcher/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
